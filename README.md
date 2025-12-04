@@ -6,7 +6,7 @@
 $r = \frac{a}{2}$
 
 ### Алгоритамска шема 
-![решење](algoritam.png)
+![решење](algoritam.PNG)
 ## Решење 
 ``` cs
 using System;
